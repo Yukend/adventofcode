@@ -12,5 +12,6 @@ with open("./day1/input.txt", "r") as file:
         floor = floor + 1 if char == '(' else floor - 1
         if floor == -1:
             break
+    print(index)
 
 
