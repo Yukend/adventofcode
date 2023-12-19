@@ -1,0 +1,6 @@
+keys = ("cost", "damage", "hit points", "armor", "turns", "mana")
+magic = (53, 4, 0, 0, 0, 0)
+drain = (73, 2, 2, 0, 0, 0)
+shield = (113, 0, 0, 7, 6, 0)
+poison = (173, 3, 0, 0, 6, 0)
+recharge = (229, 0, 0, 0, 5, 101)
